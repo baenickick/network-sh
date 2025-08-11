@@ -338,5 +338,5 @@ else:
 # 푸터
 st.markdown("---")
 st.markdown("**💡 Tip**: 키워드를 입력/수정할 때마다 분석 결과가 실시간으로 업데이트됩니다!")
-st.markdown("Built with ❤️ using Streamlit | 도시 브랜딩 연구를 위한 텍스트 분석 도구")
+st.markdown("by baenickick ʢᴗ.ᴗʡ | 네트워크 + 토픽 모델링 분석")
 
